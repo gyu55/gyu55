@@ -8,7 +8,13 @@
 <!-- 자기소개 -->
 <div align="center">
 
-  [Velog](https://velog.io/@gyu5/posts)
+  ☕ Java랑 씨름 중인 취준생입니다  
+  오늘도 에러를 만들고, 오늘도 에러를 고칩니다 🥊  
+  삽질한 것들 기록하는 블로그도 운영 중이에요 📝
+
+  <br/>
+
+  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gyu5/posts)
 
 </div>
 
@@ -33,7 +39,12 @@
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Game Engine**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 **Tools**
 
