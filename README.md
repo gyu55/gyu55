@@ -8,12 +8,10 @@
 <!-- 자기소개 -->
 <div align="center">
 
-  ☕ Java랑 씨름 중인 취준생입니다  
-  오늘도 에러를 만들고, 오늘도 에러를 고칩니다 🥊  
-  삽질한 것들 기록하는 블로그도 운영 중이에요 📝
+  
 
   <br/>
-
+  Study blog
   [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gyu5/posts)
 
 </div>
