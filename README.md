@@ -8,9 +8,7 @@
 <!-- 자기소개 -->
 <div align="center">
 
-  ☕ Java랑 씨름 중인 취준생입니다  
-  오늘도 에러를 만들고, 오늘도 에러를 고칩니다 🥊  
-  삽질한 것들 기록하는 [Velog](https://velog.io/@gyu5/posts)도 운영 중이에요 📝
+  [Velog](https://velog.io/@gyu5/posts)
 
 </div>
 
